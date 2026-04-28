@@ -1,0 +1,26 @@
+{
+    "short_name": "SIIE"
+  , "name": "Sistema Integrado de Información Empresarial"
+  , "manifest_version": 1
+  , "version": "3.1"
+  , "author":"Motum Data DEV"
+  , "icons": [
+      {
+        "src": "/img/logo/siie_isox96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }
+    , {
+        "src": "/img/logo/siie_isox144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    , {
+        "src": "/img/logo/siie_isox192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  , "start_url": "/"
+  , "display": "browser"
+}

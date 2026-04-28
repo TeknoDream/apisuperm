@@ -1,0 +1,25 @@
+{
+    "name": "SIIE"
+  , "type": "web"
+  , "version": "3.1"
+  , "description": "Plataforma de Gestión de Contenidos"
+  , "launch_path": "/"
+  , "icons": {
+        "16": "/img/logo/siie_isox16.png"
+      , "32": "/img/logo/siie_isox32.png"
+      , "48": "/img/logo/siie_isox48.png"
+      , "64": "/img/logo/siie_isox64.png"
+      , "128": "/img/logo/siie_isox128.png"
+      , "256": "/img/logo/siie_isox256.png"
+    }
+  , "developer": {
+       "name": "Motum Data DEV"
+     , "url": "http://motumdata.com"
+  }
+  , "default_locale": "es"
+  , "permissions": {
+     "desktop-notification": {
+       "description": "Needed for creating system notifications."
+     }
+  }
+}

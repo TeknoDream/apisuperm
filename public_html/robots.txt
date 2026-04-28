@@ -1,0 +1,7 @@
+User-agent: Twitterbot
+Disallow:/cache/
+Allow: /cache/images/
+ 
+User-agent: *
+Disallow:/cache/
+Allow: /cache/images/
